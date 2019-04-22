@@ -1,2 +1,2 @@
-#Simple app boiler plate
-*v1*
+# Simple app boiler plate
+  *v1*
